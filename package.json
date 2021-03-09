@@ -1,0 +1,16 @@
+{
+    "name": "@runkit/suk0m8u_youtube-subscribers-badge",
+    "version": "1.0.0",
+    "main": "./lib/youtube-subscribers-badge",
+    "dependencies": {
+        "@runkit/runkit_json-endpoint": "https://runkit.com/runkit/json-endpoint/1.0.0",
+        "request": "2.88.2",
+        "request-promise": "4.2.6",
+        "url": "0.11.0",
+        "url-search-params": "1.1.0",
+        "node-fetch": "2.6.1"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}

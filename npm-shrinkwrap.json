@@ -1,6 +1,6 @@
 {
     "name": "@runkit/suk0m8u_youtube-subscribers-badge",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "@runkit/runkit_json-endpoint": {
             "version": "1.0.0",
